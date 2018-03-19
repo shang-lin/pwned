@@ -1,7 +1,7 @@
 pwnedornot.py checks if your password as been exposed in one of the data breaches 
 archived on https://haveibeenpwned.com. 
 
-To use, clone the git repo, enter, the pwned directory, and run pwnedornot.py. When 
+To use, clone the git repo, enter the pwned directory, and run pwnedornot.py. When 
 prompted, enter the password you want to check and hit the Enter key. The password 
 will not be echoed on the command line.
 
