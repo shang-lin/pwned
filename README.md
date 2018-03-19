@@ -1,4 +1,4 @@
-pwnedornot.py checks if your password as been exposed in one of the data breaches 
+pwnedornot.py checks if your password has been exposed in one of the data breaches 
 archived on https://haveibeenpwned.com. 
 
 To use, clone the git repo, enter the pwned directory, and run pwnedornot.py. When 
